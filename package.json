@@ -1,0 +1,24 @@
+{
+  "name": "nappd-cli",
+  "version": "0.0.1",
+  "description": "Command line interface for nappd.",
+  "main": "bin/nappd-cli",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/remolueoend/nappd-cli.git"
+  },
+  "keywords": [
+    "nappd",
+    "node",
+    "daemon"
+  ],
+  "author": "Remo Zumsteg <remo.zumsteg@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remolueoend/nappd-cli/issues"
+  },
+  "homepage": "https://github.com/remolueoend/nappd-cli"
+}
