@@ -2,13 +2,13 @@
   "name": "nappd-cli",
   "version": "0.0.2",
   "description": "Command line interface for nappd.",
-  "main": "lib/nappd-cli.js",
+  "main": "bin/nappd-cli.js",
   "scripts": {
-    "start": "node lib/nappd-cli.js",
+    "start": "node bin/nappd-cli.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "nappd": "lib/nappd-cli.js"
+    "nappd": "bin/nappd-cli.js"
   },
   "engines": {
     "node": "*"
