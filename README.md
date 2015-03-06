@@ -7,7 +7,7 @@ npm install -g nappd-cli
 ```
 or
 ```
-npm install -g git+https://github.com/remolueoend/nappd.git
+npm install -g git+https://github.com/remolueoend/nappd-cli.git
 ```
 ## Usage
 ### Registration
